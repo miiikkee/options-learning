@@ -1,0 +1,10 @@
+name: options-learning
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - jupyter
