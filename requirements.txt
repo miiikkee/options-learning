@@ -1,0 +1,6 @@
+Continue Update： 
+numpy
+scipy
+pandas
+matplotlib
+jupyter
